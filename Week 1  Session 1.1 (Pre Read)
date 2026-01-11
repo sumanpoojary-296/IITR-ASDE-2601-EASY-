@@ -1,0 +1,167 @@
+ The AI Landscape for Beginners — Pre-Read
+
+## What You’ll Learn
+In this pre-read, you’ll discover:
+- How **traditional software** differs from **AI systems**
+- The basic meaning of **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Generative AI (GenAI)**
+- Why AI became powerful only in recent years
+- Where AI is already used in everyday life
+- What the future of AI looks like
+
+---
+
+## What Is Artificial Intelligence?
+
+Imagine a **calculator** and a **music streaming app**.
+
+A calculator gives answers only when you tell it exactly what to do.  
+A music app learns what you like and suggests new songs.
+
+**Artificial Intelligence (AI)** is when machines learn from data and make decisions, instead of following only fixed rules written by humans.
+
+---
+
+## Traditional Software vs AI Systems
+
+### Traditional Software (Rule-Based)
+Traditional software works by following clear instructions.
+
+Input → Fixed rules written by humans → Output
+
+Example:
+If temperature > 30 → Turn on fan
+If temperature ≤ 30 → Keep fan off
+
+Problems with traditional software:
+- Every rule must be written manually
+- Difficult to handle new or unexpected situations
+- Updating rules takes time
+
+---
+
+### AI Systems (Learning-Based)
+AI systems learn patterns from data.
+
+Input data → Learning algorithm → Model → Output
+
+Instead of writing rules, we give examples.  
+The system figures out patterns on its own.
+
+---
+
+## How AI Thinks (Simple View)
+
+Traditional Software AI System
+Follow rules Observe data
+↓
+Learn patterns
+↓
+Make predictions
+
+---
+
+## Why Does AI Matter?
+
+AI matters because it can:
+
+1. **Automate repetitive work**  
+   Example: Sorting emails or detecting spam automatically
+
+2. **Improve with experience**  
+   Example: Recommendations become better over time
+
+3. **Handle unclear problems**  
+   Example: Recognizing faces or understanding speech
+
+These are tasks where writing rules is difficult.
+
+---
+
+## AI vs ML vs Generative AI
+
+### The Big Picture
+
+Artificial Intelligence (AI)
+↓
+Machine Learning (ML)
+↓
+Generative AI (GenAI)
+
+- **AI** is the goal: making machines intelligent  
+- **ML** is the method: learning from data  
+- **Generative AI** is a type of ML that creates new content
+
+---
+
+### Easy Mental Model
+
+AI = The destination
+ML = The vehicle
+GenAI = The creative passenger
+
+---
+
+## A Very Short History of AI
+
+1950s–1980s → Rule-Based AI
+1990s–2010s → Machine Learning Era
+2020s–Present → Generative AI Era
+
+AI became successful because of:
+- Large amounts of data
+- Faster and cheaper computers
+- Better learning algorithms
+
+---
+
+## Where You See AI Today
+
+You use apps
+↓
+AI learns your behavior
+↓
+AI suggests actions
+
+Common examples:
+- Netflix and YouTube recommendations
+- Google Maps traffic prediction
+- Face unlock on smartphones
+- Chatbots for customer support
+
+---
+
+## The Road Ahead
+
+Humans + AI
+↓
+Better decisions
+↓
+Higher productivity
+↓
+Responsible and ethical AI
+
+AI is expected to:
+- Assist humans, not replace them
+- Become more personalized
+- Be used responsibly and ethically
+
+---
+
+## Think About It
+
+- Is a calculator an AI system? Why or why not?
+- Which app you use daily might be learning from you?
+- What task would you like AI to help you with?
+
+---
+
+## Key Takeaways
+
+- Traditional software follows fixed rules
+- AI systems learn patterns from data
+- AI, ML, and GenAI are closely connected
+- AI is already part of everyday life
+- The future of AI focuses on collaboration with humans
+
+You are now ready to explore AI in more depth in the upcoming lecture 🚀
+
