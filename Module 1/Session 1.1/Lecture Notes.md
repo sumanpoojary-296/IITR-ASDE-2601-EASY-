@@ -308,8 +308,6 @@ AI should be seen as:
 
 ![image15](https://coding-platform.s3.amazonaws.com/dev/lms/tickets/126a5849-5243-489a-9d02-a829ba813dc4/0PHhfghwEuJ3VncV.jpg)
 
-![image12](https://coding-platform.s3.amazonaws.com/dev/lms/tickets/e93282ba-4f39-4bae-aae3-7d1ae7887477/nqkQqOY1CeUyRxLY.jpg)
-
 ---
 
 ## Final Key Takeaways
