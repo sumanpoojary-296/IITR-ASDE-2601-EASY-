@@ -44,6 +44,7 @@ Input → Rules → Output
 A **traffic signal with a fixed timer**:
 - Turns red, yellow, and green at fixed intervals
 - Does not care if there are 100 cars or zero cars
+- 
 ![image4](https://coding-platform.s3.amazonaws.com/dev/lms/tickets/6b51afe6-731c-4730-bf20-63ecc1c4d079/lJ3gvTbRTEhyR3Ko.jpg)
 
 ![image5](https://coding-platform.s3.amazonaws.com/dev/lms/tickets/03e48168-bb78-49c2-8914-f7acb335f509/TvtgA0e0KTeB3QgQ.jpg)
@@ -91,6 +92,7 @@ Input Data → Learning Algorithm → Model → Prediction / Decision
 - No rulebook
 - You try, fall, adjust, and improve
 - Learning happens through experience
+  
 ![image6](https://coding-platform.s3.amazonaws.com/dev/lms/tickets/45050324-4467-438a-b399-82a9284a5ca3/nzZIXlAU0sFJzEmX.jpg)
 
 ![image2](https://coding-platform.s3.amazonaws.com/dev/lms/tickets/d8214e30-8021-42bd-bcc5-2c7eb43e00d0/NIfcgRXDVjwjneRM.jpg)
@@ -233,7 +235,9 @@ Machines started learning patterns from data.
 - Holding conversations
 
 ![image6](https://coding-platform.s3.amazonaws.com/dev/lms/tickets/3f76cdc8-0e7e-4b17-ba82-6990f5675f5b/qMMvrmKiRMYnEYK0.jpg)
+
 ![image8](https://coding-platform.s3.amazonaws.com/dev/lms/tickets/30a97ea4-701b-4dd7-88ac-477f6529a0e7/QHYy2jKZu2xsSayH.jpg)
+
 ![image9](https://coding-platform.s3.amazonaws.com/dev/lms/tickets/c94031c8-7b91-4155-b2e7-abb67fcac75c/JFacw3gAwgKK2mhh.jpg)
 
 ---
@@ -261,9 +265,13 @@ Machines started learning patterns from data.
 - Recommendation systems
 
 ![image11](https://coding-platform.s3.amazonaws.com/dev/lms/tickets/065c3088-caaf-46c0-b850-8822b079854e/opcCIukbA3Ou0KoS.jpg)
+
 ![image10](https://coding-platform.s3.amazonaws.com/dev/lms/tickets/8dd951c2-6cbf-4216-ab6f-5221fc1f67c3/Y2uSCJGiSIsEVpgz.jpg)
+
 ![image13](https://coding-platform.s3.amazonaws.com/dev/lms/tickets/4cd1e503-66e8-4b9d-b71e-43accfb390f9/Sr2yFHgGUl0NVlDT.png)
+
 ![image14](https://coding-platform.s3.amazonaws.com/dev/lms/tickets/e1de5490-c357-40fa-bc40-9f287f431cd3/PHydkzyhWWXPmJLV.jpg)
+
 ---
 
 ## 5. The Road Ahead: Future of AI
@@ -301,6 +309,7 @@ AI should be seen as:
 ![image15](https://coding-platform.s3.amazonaws.com/dev/lms/tickets/126a5849-5243-489a-9d02-a829ba813dc4/0PHhfghwEuJ3VncV.jpg)
 
 ![image12](https://coding-platform.s3.amazonaws.com/dev/lms/tickets/e93282ba-4f39-4bae-aae3-7d1ae7887477/nqkQqOY1CeUyRxLY.jpg)
+
 ---
 
 ## Final Key Takeaways
