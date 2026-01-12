@@ -32,11 +32,15 @@ Input → Rules → Output
 
 ```
 
-**Key characteristics:**
-- Rules are written manually
-- No learning from experience
-- Cannot adapt to new situations
-- Breaks when conditions change
+### Key Characteristics (Traditional Software)
+- **Rules are written manually**  
+  Every possible scenario must be anticipated and coded by a human.
+- **No learning from experience**  
+  The system behaves the same on day 1 and day 100.
+- **Cannot adapt to new situations**  
+  Any change requires rewriting or adding rules.
+- **Breaks when conditions change**  
+  Unexpected inputs often lead to failures.
 
 ---
 
@@ -79,11 +83,15 @@ Input Data → Learning Algorithm → Model → Prediction / Decision
 
 ```
 
-**Key characteristics:**
-- Learns from experience
-- Improves over time
-- Handles uncertainty
-- Adapts to new situations
+### Key Characteristics (AI Systems)
+- **Learns from experience**  
+  Improves performance as it sees more data.
+- **Improves over time**  
+  Accuracy increases with better data and retraining.
+- **Handles uncertainty**  
+  Works even with incomplete or noisy data.
+- **Adapts to new situations**  
+  Generalizes from past examples.
 
 ---
 
@@ -307,6 +315,23 @@ AI should be seen as:
 ✅ AI depends heavily on data quality  
 
 ![image15](https://coding-platform.s3.amazonaws.com/dev/lms/tickets/126a5849-5243-489a-9d02-a829ba813dc4/0PHhfghwEuJ3VncV.jpg)
+
+| Aspect | Artificial Intelligence (AI) | Machine Learning (ML) | Generative AI (GenAI) |
+|------|------------------------------|-----------------------|----------------------|
+| Definition | Broad goal of making machines behave intelligently | Technique that allows machines to learn from data | ML models that generate new content |
+| Scope | Umbrella term covering many approaches | Subset of AI | Subset of Machine Learning |
+| Primary Purpose | Mimic intelligent decision-making | Learn patterns and make predictions | Create original content |
+| How it Works | Can use rules, logic, or learning | Learns from historical data | Learns data structure and context |
+| Learning Ability | May or may not learn | Learns from data | Learns and creates from data |
+| Output Type | Decisions or actions | Predictions or classifications | Text, images, audio, code, videos |
+| Data Dependency | Optional | Required | Required (large-scale data) |
+| Adaptability | Limited to design | Improves with more data | Highly flexible and creative |
+| Examples | Expert systems, rule engines | Spam filters, credit scoring | ChatGPT, DALL·E, Midjourney |
+| Real-World Use | Automation and decision systems | Forecasting and recommendations | Content creation and assistance |
+| Complexity Level | Conceptual | Algorithmic | Computationally intensive |
+| User Interaction | Mostly indirect | Mostly background systems | Direct and interactive |
+
+
 
 ---
 
